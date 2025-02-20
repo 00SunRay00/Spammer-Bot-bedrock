@@ -5,7 +5,7 @@ A bot for automated chat messaging in Minecraft: Bedrock using the bedrock-proto
 1. Install node.js
 2. Install bedrock-protocol library(npm install bedrock-protocol)
 3. Configure bot.js
-```
+```js
 const message = ""; // Enter a message and there is a 25% chance that the server will support it
 const hostm = ""; //enter server ip
 const portm = 12345; // Enter server port
