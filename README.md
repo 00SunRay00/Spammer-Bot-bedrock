@@ -10,3 +10,7 @@ const message = ""; // Enter a message and there is a 25% chance that the server
 const hostm = ""; //enter server ip
 const portm = 12345; // Enter server port
 ```
+4. Start terminal and enter
+```cmd
+node bot.js
+```
