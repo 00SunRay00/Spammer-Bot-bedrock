@@ -2,9 +2,9 @@
 A bot for automated chat messaging in Minecraft: Bedrock using the bedrock-protocol library.
 
 # How to use?
- guide for termux
+# guide for termux
 Coming soon...
- guide for windows
+# guide for windows
 1. Install node.js
 2. Install bedrock-protocol library
 ```
