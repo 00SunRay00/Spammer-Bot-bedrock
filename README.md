@@ -2,8 +2,7 @@
 A bot for automated chat messaging in Minecraft: Bedrock using the bedrock-protocol library.
 
 # How to use?
-# guide for termux
-Coming soon...
+# [guide for termux](https://github.com/00SunRay00/Spammer-Bot-bedrock/blob/main/TERMUXGUIDE.md)
 # guide for windows
 1. Install node.js
 2. Install bedrock-protocol library
