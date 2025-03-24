@@ -1,6 +1,7 @@
 const message = ""; // Enter a message and there is a 25% chance that the server will support it
 const hostm = ""; // Enter server IP
 const portm = 12345; // Enter server port
+const botname = "Bot" // Custom name (Bot0001-9999)
 
 const bedrock = require('bedrock-protocol');
 
@@ -10,7 +11,7 @@ async function startBots() {
   while (true) {
     try {
       const randomNum = Math.floor(Math.random() * 10000);
-      const username = `Bot${randomNum}`;
+      const username = `${botname}${randomNum}`;
 
       await delay(500);
       const client = bedrock.createClient({
