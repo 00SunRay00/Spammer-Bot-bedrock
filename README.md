@@ -3,4 +3,4 @@ A bot for automated chat messaging in Minecraft: Bedrock using the bedrock-proto
 
 # How to use?
 # [guide for termux](https://github.com/00SunRay00/Spammer-Bot-bedrock/blob/main/TERMUXGUIDE.md)
-# guide for windows
+# [guide for windows](https://github.com/00SunRay00/Spammer-Bot-bedrock/blob/main/GUIDEWINDOWS.md)
